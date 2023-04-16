@@ -1,2 +1,2 @@
 # Ozart-responsive-page
-![screencapture-file-C-Users-DELL-Documents-code-github-desktop-CODE-Ozart-responsive-page-ozart-ozart-html-2023-04-16-12_12_27](https://user-images.githubusercontent.com/116200164/232294465-16728194-8d60-4780-ab85-4f782ec90481.png)
+![screencapture-file-C-Users-DELL-Desktop-ozart-ozart-html-2023-04-16-12_17_05](https://user-images.githubusercontent.com/116200164/232295496-8508c6dd-dcc3-4622-aeb9-2b52ea2ed41e.png)
